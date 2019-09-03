@@ -9,6 +9,10 @@ verify_ssl = true
 numpy = "*"
 pandas = "*"
 vim = "*"
+lambdatajhsieh = {index = "https://test.pypi.org/simple/",version = "*"}
+setuptools = "*"
+wheel = "*"
+twine = "*"
 
 [requires]
 python_version = "3.7"
