@@ -10,12 +10,12 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdatahsieh",
-    version="0.1.1",
+    version="0.0.2",
     author="jhsieh",
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/justin-hsieh/lambdatahsieh",
+    url="https://github.com/justin-hsieh/lambdata",
     packages=setuptools.find_packages(),
     install_requires=REQUIRED,
     classifiers=[
