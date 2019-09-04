@@ -10,7 +10,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdatahsieh",
-    version="0.0.2",
+    version="0.1.2",
     author="jhsieh",
     description="A small example package",
     long_description=long_description,
